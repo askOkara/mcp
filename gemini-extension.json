@@ -1,0 +1,9 @@
+{
+  "name": "okara",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Okara AI CMO: SEO audits, articles, X and LinkedIn posts, Reddit leads, ads.",
+  "mcpServers": {
+    "okara": { "httpUrl": "https://okara.ai/api/mcp" }
+  }
+}

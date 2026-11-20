@@ -1,0 +1,12 @@
+{
+  "name": "okara",
+  "version": "1.0.0",
+  "description": "Okara AI CMO inside Cursor: SEO audits, articles, X and LinkedIn posts, Reddit leads, ads.",
+  "author": { "name": "Okara" },
+  "homepage": "https://okara.ai/mcp",
+  "license": "MIT",
+  "repository": "https://github.com/askOkara/mcp",
+  "keywords": ["marketing", "seo", "content", "social", "reddit", "ads", "growth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "okara": { "url": "https://okara.ai/api/mcp" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "okara",
+  "version": "1.0.0",
+  "description": "Okara AI CMO inside Claude: SEO audits, articles, X and LinkedIn posts, Reddit leads, ads.",
+  "author": { "name": "Okara", "url": "https://okara.ai" },
+  "homepage": "https://okara.ai/mcp",
+  "license": "MIT",
+  "repository": "https://github.com/askOkara/mcp",
+  "keywords": ["marketing", "seo", "content", "social", "reddit", "ads", "growth"],
+  "mcpServers": {
+    "okara": { "type": "http", "url": "https://okara.ai/api/mcp" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "okara",
+  "description": "Okara AI CMO MCP plugin for Claude Code.",
+  "owner": {
+    "name": "Okara",
+    "url": "https://okara.ai"
+  },
+  "plugins": [
+    {
+      "name": "okara",
+      "source": "./",
+      "description": "Okara AI CMO: SEO, content, social and growth tools from chat."
+    }
+  ]
+}
